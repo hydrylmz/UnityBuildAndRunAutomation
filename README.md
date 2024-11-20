@@ -30,6 +30,9 @@ This project contains a script for automating the build and run processes for Un
 - Fork the repository and make changes.
 - Submit a pull request with your contributions.
 
+### VERY IMPORTANT NOTE
+- **This script only works for windows builds because it builds and runs .exe file. You can check for target platform in the script.**
+
 
 
 
@@ -66,4 +69,7 @@ Bu proje, Unity projelerinizde build ve run işlemlerini otomatikleştiren bir s
 ## Katkıda Bulunma:
 - Depoyu fork’layın ve değişikliklerinizi yapın.
 - Değişikliklerinizi bir pull request (PR) olarak gönderin.
+
+### ÖNEMLİ NOT
+**Bu script sadece windows buildleri için çalışır çünkü .exe dosyası build ediyor ve çalıştırıyor. Hedef platformu script içerisinden kontrol edebilirsiniz.**
 
