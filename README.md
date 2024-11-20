@@ -1,4 +1,4 @@
-# Unity Build And Run Automation Scrit
+# Unity Build And Run Automation Script
 A very short but very effective script to automate your Build And Run process!
 
 :uk:	
