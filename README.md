@@ -14,9 +14,9 @@ This project contains a script for automating the build and run processes for Un
 ### 1. Using the Unity Editor:
 1. Open your Unity project.
 2. Add the `BuildAutomation.cs` script to the `Assets/Editor` folder in your project. **[Your script should be in a folder named Editor]**
-3. In Unity, there will be a new tab named Build on the top of your screen. Go to **Build > Build and Run Multiple Times** from the top menu.
-4. In the **Inspector**, modify the `buildFolderPath` and `numberOfBuilds` values as desired.
-5. Click the **Build and Run Multiple Times** menu item to begin the build process.
+3. In Unity, Go to **Window > Build Automation** from the top menu. The Build Automation tab should be there if you did everything correctly.
+4. In the **Build Automation Inspector**, modify the `buildFolderPath` and `numberOfBuilds` values as desired.
+5. Click the **Start Build** menu item to begin the build process.
 
 ### 3. Customizable Parameters:
 - **`buildFolderPath`**: The directory where the build outputs will be saved. This path can be easily changed via the **Inspector**.
@@ -54,9 +54,10 @@ Bu proje, Unity projelerinizde build ve run işlemlerini otomatikleştiren bir s
 ### 1. Unity Editor Kullanarak:
 1. Unity projenizi açın.
 2. `BuildAutomation.cs` script dosyasını projenizin `Assets/Editor` klasörüne ekleyin. **[Script'inizin bir "Editor" isimli klasörde olması gerekiyor]**
-3. Unity'de ekranınızın üst kısmında yeni bir **Build** sekmesi görünecek. Üst menüden **Build > Build and Run Multiple Times** seçeneğine tıklayın.
-4. **Inspector** penceresinde `buildFolderPath` ve `numberOfBuilds` değerlerini istediğiniz gibi değiştirin.
-5. **Build and Run Multiple Times** menüsüne tıklayarak build işlemini başlatın.
+3. Unity'de ekranınızın üst kısmından **Window > Build Automation** kısmına gidin. Build Automation sekmesi her şeyi doğru yaptıysanız orda olmalı.
+4. **Build Automation Inspector** penceresinde `buildFolderPath` ve `numberOfBuilds` değerlerini istediğiniz gibi değiştirin.
+5. **Start Build** tuşuna tıklayarak build işlemini başlatın.
+
 
 ### 3. Özelleştirilebilir Parametreler:
 - **`buildFolderPath`**: Build çıktı dosyalarının kaydedileceği dizin. Bu yolu **Inspector** üzerinden kolayca değiştirebilirsiniz.
