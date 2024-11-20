@@ -24,7 +24,7 @@ This project contains a script for automating the build and run processes for Un
 
 ## System Requirements:
 - **Unity 2020 or later**
-- **Windows or macOS**
+- **Windows**
 
 ## Contributing:
 - Fork the repository and make changes.
@@ -65,7 +65,7 @@ Bu proje, Unity projelerinizde build ve run işlemlerini otomatikleştiren bir s
 
 ## Sistem Gereksinimleri:
 - **Unity 2020 veya daha yeni sürümler**
-- **Windows veya macOS**
+- **Windows**
 
 ## Katkıda Bulunma:
 - Depoyu fork’layın ve değişikliklerinizi yapın.
