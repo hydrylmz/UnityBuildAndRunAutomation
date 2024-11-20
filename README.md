@@ -71,5 +71,5 @@ Bu proje, Unity projelerinizde build ve run işlemlerini otomatikleştiren bir s
 - Değişikliklerinizi bir pull request (PR) olarak gönderin.
 
 ### ÖNEMLİ NOT
-**Bu script sadece windows buildleri için çalışır çünkü .exe dosyası build ediyor ve çalıştırıyor. Hedef platformu script içerisinden kontrol edebilirsiniz.**
+- **Bu script sadece windows buildleri için çalışır çünkü .exe dosyası build ediyor ve çalıştırıyor. Hedef platformu script içerisinden kontrol edebilirsiniz.**
 
